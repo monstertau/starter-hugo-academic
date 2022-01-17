@@ -1,5 +1,5 @@
 ---
-title: Nelson Bighetti
+title: Dung Vu
 role: Professor of Artificial Intelligence haha
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
