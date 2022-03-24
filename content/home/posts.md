@@ -1,5 +1,6 @@
 ---
 widget: pages
+active: true
 widget_id: Testing
 headless: true
 weight: 60
@@ -23,4 +24,4 @@ design:
   view: compact
   columns: "2"
 ---
-testing
+Popular Posts

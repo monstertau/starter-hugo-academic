@@ -27,8 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Web
+    tag: web
+  - name: Mobile
+    tag: Demo
+  - name: Machine Learning
+    tag: Demo
   - name: Other
     tag: Demo
 
